@@ -370,17 +370,19 @@ padding:0px 5px 0 5px;}
     align-items: center;
     width:100%;
     background-color:rgba(255, 255, 255, 0.788);
-    padding:20px 0 10px 50px;
-margin-left: 40%;}
+    padding-bottom: 20px;
+}
 .blog-image {
   height: auto;
   width: 100%;
 }
 .blog-box-2 { display: flex;
   flex-direction: column;
+  justify-content: center;
   flex-wrap: wrap;
   align-items: center;
   width:100%;
+  padding-bottom: 20px;
 }
 .blog-image-2 {
   height: auto;
